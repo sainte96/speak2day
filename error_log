@@ -1,0 +1,475 @@
+[03-Apr-2023 18:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Google\Cloud\TextToSpeech\V1\TextToSpeechClient" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php on line 10
+[03-Apr-2023 18:43:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Google\Cloud\TextToSpeech\V1\TextToSpeechClient" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php on line 10
+[03-Apr-2023 18:43:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Google\Cloud\TextToSpeech\V1\TextToSpeechClient" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php on line 10
+[03-Apr-2023 18:43:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Google\Cloud\TextToSpeech\V1\TextToSpeechClient" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php on line 10
+[03-Apr-2023 18:43:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Google\Cloud\TextToSpeech\V1\TextToSpeechClient" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/text_speech.php on line 10
+[03-Apr-2023 21:50:41 America/New_York] PHP Warning:  require(header.php): Failed to open stream: No such file or directory in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 1
+[03-Apr-2023 21:50:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 1
+[03-Apr-2023 21:50:46 America/New_York] PHP Warning:  require(header.php): Failed to open stream: No such file or directory in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 1
+[03-Apr-2023 21:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 1
+[04-Apr-2023 00:34:13 America/New_York] PHP Warning:  Undefined array key "text" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 13
+[04-Apr-2023 01:05:15 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:30 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:40 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:52 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:54 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:05:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:06:09 America/New_York] PHP Warning:  Undefined variable $result in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:06:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 20
+[04-Apr-2023 01:12:00 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 17
+[04-Apr-2023 01:12:00 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php(17): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Undefined variable $result_welcome in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 40
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 40
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Undefined variable $flag in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 40
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Undefined variable $result_lesson_topic in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Undefined variable $result_home in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 43
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 43
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Undefined variable $result_lesson_topic in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 45
+[04-Apr-2023 01:12:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 45
+[04-Apr-2023 01:14:11 America/New_York] PHP Warning:  Undefined variable $flag in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 40
+[04-Apr-2023 01:48:05 America/New_York] PHP Warning:  Undefined variable $text in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 8
+[04-Apr-2023 01:48:05 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:48:05 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:48:26 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:48:26 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:48:46 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:48:47 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:48:53 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:48:53 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:49:24 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:49:24 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:49:50 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:49:50 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:50:23 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:50:23 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 01:51:15 America/New_York] PHP Warning:  Undefined variable $translate in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 8
+[04-Apr-2023 01:51:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function translate() on null in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 8
+[04-Apr-2023 01:52:44 America/New_York] PHP Warning:  Undefined variable $lan in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 9
+[04-Apr-2023 01:52:44 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(9): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 02:00:55 America/New_York] PHP Warning:  Undefined array key "lan" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 5
+[04-Apr-2023 02:00:55 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(11): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 02:01:14 America/New_York] PHP Warning:  Undefined array key "lan" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 5
+[04-Apr-2023 02:01:14 America/New_York] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\BadRequestException: {
+  "error": {
+    "code": 400,
+    "message": "Missing required field target",
+    "errors": [
+      {
+        "message": "Missing required field target",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Missing required field target"
+          }
+        ]
+      }
+    ]
+  }
+}
+ in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php:378
+Stack trace:
+#0 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php(209): Google\Cloud\Core\RequestWrapper->convertToGoogleException()
+#1 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RestTrait.php(100): Google\Cloud\Core\RequestWrapper->send()
+#2 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/Connection/Rest.php(87): Google\Cloud\Translate\V2\Connection\Rest->send()
+#3 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(254): Google\Cloud\Translate\V2\Connection\Rest->listTranslations()
+#4 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-translate/src/V2/TranslateClient.php(188): Google\Cloud\Translate\V2\TranslateClient->translateBatch()
+#5 /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php(11): Google\Cloud\Translate\V2\TranslateClient->translate()
+#6 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/vendor/google/cloud-core/src/RequestWrapper.php on line 378
+[04-Apr-2023 02:01:40 America/New_York] PHP Warning:  Undefined array key "lan" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/core.php on line 5
+[04-Apr-2023 02:45:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:48:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 02:48:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "HttpRequest" not found in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/rapid_tts.php on line 3
+[04-Apr-2023 13:34:24 America/New_York] PHP Warning:  Undefined array key "test" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[04-Apr-2023 15:33:13 America/New_York] PHP Warning:  Undefined array key "test" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[06-Apr-2023 14:34:03 America/New_York] PHP Warning:  Undefined array key "test" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[06-Apr-2023 20:42:33 America/New_York] PHP Warning:  Undefined array key "test" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41
+[06-Apr-2023 20:43:02 America/New_York] PHP Warning:  Undefined array key "test" in /home/sedubtxc/speak2day.sedumcapital.net/v2.0/lesson.php on line 41

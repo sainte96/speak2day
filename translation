@@ -1,0 +1,25 @@
+// Set the text to be translated
+$text = "Hello, world!";
+
+// Set the target language for the translation
+$targetLanguage = "es"; // Spanish
+
+// Set the Google Translate API endpoint and parameters
+$url = "https://translation.googleapis.com/language/translate/v2?key=YOUR_API_KEY";
+$params = array(
+    "q" => $text,
+    "target" => $targetLanguage
+);
+
+// Send the API request using cURL
+$ch = curl_init($url . "&" . http_build_query($params));
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$response = curl_exec($ch);
+curl_close($ch);
+
+// Parse the API response to get the translated text
+$jsonResponse = json_decode($response, true);
+$translatedText = $jsonResponse["data"]["translations"][0]["translatedText"];
+
+// Inject the translated text into the appropriate HTML element
+echo "<div>" . $translatedText . "</div>";
